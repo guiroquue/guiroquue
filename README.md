@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **bit manipulation and design analasys**
 
-- 📫 How to reach me **g.sroque04@gmail.com**
-
 <br/><br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
